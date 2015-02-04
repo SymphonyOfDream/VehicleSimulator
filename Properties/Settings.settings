@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VehicleSimulator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EcmComPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="GpsComPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Max_MilesPerHour" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">120</Value>
+    </Setting>
+    <Setting Name="Speed_GreenZone_End_MilesPerHour" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">40</Value>
+    </Setting>
+    <Setting Name="Speed_YellowZone_End_MilesPerHour" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">70</Value>
+    </Setting>
+    <Setting Name="Odometer" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

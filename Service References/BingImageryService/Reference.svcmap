@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="200c8c7c-081c-48cd-889f-1dbc76719a50" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://dev.virtualearth.net/webservices/v1/imageryservice/imageryservice.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="imageryservice1.wsdl" MetadataType="Wsdl" ID="8ab9ac46-5302-4235-a863-086408f0c603" SourceId="1" SourceUrl="http://dev.virtualearth.net/webservices/v1/metadata/imageryservice/imageryservice1.wsdl" />
+    <MetadataFile FileName="ImageryService.xsd" MetadataType="Schema" ID="cda026ae-5b6a-4251-901b-f3d89ae2227b" SourceId="1" SourceUrl="http://dev.virtualearth.net/webservices/v1/metadata/imageryservice/ImageryService.xsd" />
+    <MetadataFile FileName="ImageryService4.xsd" MetadataType="Schema" ID="5194ee4f-2b62-463d-a680-8037a4f28eb7" SourceId="1" SourceUrl="http://dev.virtualearth.net/webservices/v1/metadata/imageryservice/ImageryService4.xsd" />
+    <MetadataFile FileName="ImageryService.wsdl" MetadataType="Wsdl" ID="84127e80-aab8-437b-9d14-d2cba4f538cf" SourceId="1" SourceUrl="http://dev.virtualearth.net/webservices/v1/metadata/imageryservice/imageryservice.wsdl" />
+    <MetadataFile FileName="ImageryService5.xsd" MetadataType="Schema" ID="6c0e7a78-aa59-486b-b34c-7db88d0a8951" SourceId="1" SourceUrl="http://dev.virtualearth.net/webservices/v1/metadata/imageryservice/ImageryService5.xsd" />
+    <MetadataFile FileName="ImageryService1.xsd" MetadataType="Schema" ID="faa5cf77-963b-4bd9-9cce-b78c74df877b" SourceId="1" SourceUrl="http://dev.virtualearth.net/webservices/v1/metadata/imageryservice/ImageryService1.xsd" />
+    <MetadataFile FileName="ImageryService2.xsd" MetadataType="Schema" ID="b39e54e3-f481-44f2-90fb-8219a5a1e953" SourceId="1" SourceUrl="http://dev.virtualearth.net/webservices/v1/metadata/imageryservice/ImageryService2.xsd" />
+    <MetadataFile FileName="ImageryService3.xsd" MetadataType="Schema" ID="adb6f6a4-3c5b-42d8-93e1-5c4b35838077" SourceId="1" SourceUrl="http://dev.virtualearth.net/webservices/v1/metadata/imageryservice/ImageryService3.xsd" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,333 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="enum" priority="0" />
+      <Item value="ePowerTakeoffStatuses`0" priority="0" />
+      <Item value="m_Vehicle" priority="5" />
+      <Item value="if" priority="19" />
+      <Item value="void" priority="4" />
+      <Item value="int" priority="6" />
+      <Item value="bool" priority="4" />
+      <Item value="true" priority="5" />
+      <Item value="m_bMapOn" priority="1" />
+      <Item value="OnSystemColorsChanged`0" priority="0" />
+      <Item value="Color`0" priority="0" />
+      <Item value="return" priority="5" />
+      <Item value="bOn" priority="0" />
+      <Item value="BitResolution" priority="0" />
+      <Item value="MessageBox`0" priority="2" />
+      <Item value="OK" priority="1" />
+      <Item value="Error" priority="0" />
+      <Item value="string" priority="17" />
+      <Item value="false" priority="5" />
+      <Item value="str" priority="2" />
+      <Item value="Image`0" priority="2" />
+      <Item value="this" priority="1" />
+      <Item value="VehicleSimulator" priority="0" />
+      <Item value="MapPictureBox`0" priority="0" />
+      <Item value="mapUriResponse" priority="0" />
+      <Item value="null" priority="12" />
+      <Item value="new" priority="1" />
+      <Item value="public" priority="0" />
+      <Item value="System" priority="3" />
+      <Item value="Uri`0" priority="0" />
+      <Item value="uri" priority="0" />
+      <Item value="ToolStripLabel`0" priority="0" />
+      <Item value="Application`0" priority="1" />
+      <Item value="txtLatitude" priority="0" />
+      <Item value="location" priority="1" />
+      <Item value="txtLongitude" priority="0" />
+      <Item value="cLatitudeDirection" priority="0" />
+      <Item value="Diagnostics" priority="0" />
+      <Item value="Program`0" priority="2" />
+      <Item value="try" priority="7" />
+      <Item value="catch" priority="5" />
+      <Item value="Exception`0" priority="1" />
+      <Item value="finally" priority="0" />
+      <Item value="ex" priority="1" />
+      <Item value="while" priority="0" />
+      <Item value="iExceptionCount" priority="0" />
+      <Item value="XmlConfigurator`0" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="bRC" priority="1" />
+      <Item value="x" priority="0" />
+      <Item value="SimpleSerialPort`0" priority="3" />
+      <Item value="ToolStripButton`0" priority="0" />
+      <Item value="strMsg" priority="0" />
+      <Item value="DialogResult" priority="4" />
+      <Item value="e" priority="1" />
+      <Item value="lock" priority="0" />
+      <Item value="else" priority="2" />
+      <Item value="out" priority="2" />
+      <Item value="SerialPort`0" priority="0" />
+      <Item value="byte" priority="0" />
+      <Item value="CLSCompliantAttribute`0" priority="0" />
+      <Item value="timerUpdateDisplay" priority="0" />
+      <Item value="dblRoadSpeed" priority="0" />
+      <Item value="Right" priority="0" />
+      <Item value="MessageBoxButtons`0" priority="0" />
+      <Item value="Information" priority="0" />
+      <Item value="txtUserInput" priority="1" />
+      <Item value="Text" priority="0" />
+      <Item value="strCaption" priority="0" />
+      <Item value="strMessage" priority="1" />
+      <Item value="lblMessage" priority="0" />
+      <Item value="strPrompt" priority="1" />
+      <Item value="lblPrompt" priority="0" />
+      <Item value="frmGetUserInput" priority="0" />
+      <Item value="rc" priority="0" />
+      <Item value="Convert`0" priority="0" />
+      <Item value="cmdCycleStartStop" priority="0" />
+      <Item value="Left" priority="0" />
+      <Item value="Mph" priority="0" />
+      <Item value="Physics`0" priority="0" />
+      <Item value="pictureBox_Map" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@VehicleSimulator.J1587+PowerTakeoffStatus+ePowerTakeoffStatuses">
+      <Item value="OFF" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulator.Vehicle">
+      <Item value="PowerTakeOff" priority="0" />
+      <Item value="Odometer" priority="1" />
+      <Item value="EmitGpsData" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="ECM" priority="0" />
+      <Item value="IsRunning" priority="0" />
+      <Item value="Start`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulator.Properties.Settings">
+      <Item value="Save`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Round`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripButton">
+      <Item value="Text" priority="0" />
+      <Item value="BackColor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Green" priority="0" />
+      <Item value="Salmon" priority="0" />
+      <Item value="LightGreen" priority="0" />
+      <Item value="Yellow" priority="0" />
+      <Item value="Gray" priority="0" />
+      <Item value="Red" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulator.Location">
+      <Item value="IsValid" priority="1" />
+      <Item value="Latitude" priority="0" />
+      <Item value="Longitude" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="7" />
+      <Item value="Format`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulator.GGA">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulator.MapPictureBox">
+      <Item value="Site" priority="0" />
+      <Item value="BingCopyrightImage" priority="1" />
+      <Item value="Tag" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Image">
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulator.BingImageryService.MapUriResponse">
+      <Item value="BrandLogoUri" priority="0" />
+      <Item value="ResponseSummary" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
+      <Item value="LoadCompleted" priority="0" />
+      <Item value="ImageLocation" priority="1" />
+      <Item value="Image" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Uri">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulator.BingImageryService.ResponseSummary">
+      <Item value="Copyright" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulator.frmMain">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="ProductVersion" priority="0" />
+      <Item value="ProductName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="ToString`0" priority="1" />
+      <Item value="HasValue" priority="1" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Point">
+      <Item value="X" priority="0" />
+      <Item value="Y" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@VehicleSimulator.Program">
+      <Item value="Logger" priority="1" />
+      <Item value="m_Logger" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:log4net.ILog">
+      <Item value="Info`0" priority="0" />
+      <Item value="Error`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="InnerException" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@log4net.Config.XmlConfigurator">
+      <Item value="Configure`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@VehicleSimulator.SimpleSerialPort">
+      <Item value="GetSortedPortObjects`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Contains`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulator.frmComSettings">
+      <Item value="DialogResult" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DialogResult">
+      <Item value="OK" priority="1" />
+      <Item value="Cancel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FormClosingEventArgs">
+      <Item value="Cancel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Timer">
+      <Item value="Enabled" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Ports.SerialPort">
+      <Item value="Encoding" priority="0" />
+      <Item value="IsOpen" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulator.ECM">
+      <Item value="SerialPort" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.MouseEventArgs">
+      <Item value="Button" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="OKCancel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulator.frmGetUserInput">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="UserText" priority="0" />
+      <Item value="Hide`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt16`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@VehicleSimulator.Physics">
+      <Item value="MPH_to_KPH`0" priority="1" />
+      <Item value="KPH_to_MPH`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:Address.cs" caret="592" fromTop="8" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:BingGeocodingWrapper.cs" caret="1738" fromTop="27" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:MapPictureBox.cs" caret="4285" fromTop="27" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/d:NMEA/f:NMEA.cs" caret="3691" fromTop="11" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/d:NMEA/f:GpsSimulator.cs" caret="2073" fromTop="0" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/d:NMEA/f:GGA.cs" caret="3936" fromTop="8" />
+      <File id="181FE707-E161-4722-9F38-6AAAB6FAA106/f:ILog.cs" caret="10403" fromTop="18" />
+      <File id="181FE707-E161-4722-9F38-6AAAB6FAA106/d:Repository/d:Hierarchy/f:Hierarchy.cs" caret="20210" fromTop="7" />
+      <File id="181FE707-E161-4722-9F38-6AAAB6FAA106/d:Repository/d:Hierarchy/f:Logger.cs" caret="12083" fromTop="8" />
+      <File id="181FE707-E161-4722-9F38-6AAAB6FAA106/d:Core/f:LogImpl.cs" caret="15100" fromTop="8" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:app.config" caret="0" fromTop="0" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:ucGauge.cs" caret="52580" fromTop="6" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:BingImageryWrapper.cs" caret="3252" fromTop="51" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:SerialPortFixer.cs" caret="427" fromTop="17" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/d:ECM/d:J1587/d:Messages/f:EngineSpeedMessage.cs" caret="1221" fromTop="29" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/d:ECM/d:J1939/f:J1939.cs" caret="2923" fromTop="50" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/d:ECM/d:J1587/d:Messages/f:PowerTakeoffStatus.cs" caret="1338" fromTop="43" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:Program.cs" caret="15746" fromTop="23" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmComSettings.cs" caret="4968" fromTop="30" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/d:ECM/d:J1587/d:Messages/f:RoadSpeedMessage.cs" caret="1897" fromTop="46" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/d:ECM/d:J1587/d:Messages/f:MessageBase.cs" caret="1391" fromTop="39" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/d:ECM/d:J1587/f:J1587.cs" caret="7113" fromTop="26" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.Designer.cs" caret="71464" fromTop="24" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:Location.cs" caret="19386" fromTop="31" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:Vehicle.cs" caret="4529" fromTop="25" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/d:ECM/f:ECM.cs" caret="7839" fromTop="23" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/d:Properties/f:AssemblyInfo.cs" caret="1452" fromTop="34" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmGetUserInput.Designer.cs" caret="2319" fromTop="20" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmGetUserInput.cs" caret="1258" fromTop="31" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="51875" fromTop="37" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="38233" fromTop="26" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="1128" fromTop="13" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/d:Properties/f:AssemblyInfo.cs" caret="1452" fromTop="34" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmGetUserInput.Designer.cs" caret="64" fromTop="1" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmGetUserInput.cs" caret="0" fromTop="0" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmGetUserInput.cs" caret="1500" fromTop="13" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmGetUserInput.cs" caret="859" fromTop="19" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmGetUserInput.cs" caret="570" fromTop="12" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="47740" fromTop="16" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="50358" fromTop="20" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="50358" fromTop="30" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmGetUserInput.Designer.cs" caret="2319" fromTop="20" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmGetUserInput.cs" caret="1056" fromTop="17" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmGetUserInput.cs" caret="1258" fromTop="25" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="49859" fromTop="21" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="51973" fromTop="19" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="47740" fromTop="3" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="50358" fromTop="6" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="25446" fromTop="24" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="25893" fromTop="34" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="50701" fromTop="22" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="51186" fromTop="29" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="18902" fromTop="15" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="20149" fromTop="24" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="51973" fromTop="24" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="51477" fromTop="31" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="49773" fromTop="12" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="3483" fromTop="11" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="3793" fromTop="19" />
+      <File id="9DE9159A-60AE-484C-9DDF-1648D449CC7A/f:frmMain.cs" caret="51875" fromTop="37" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
